@@ -18,6 +18,8 @@ nav:
   - "Silence remover": silenceremover/index.md
 - Coding Game challenges:
   - "Mad pod racing": codinggame/index.md
+- Algorithmic Challenges:
+  - "Game of Life": gamelife/index.md
 - Unreal Engine 5.1.1 / C++:
   - "Balls Simulation": simulation/index.md
 - Courses:
