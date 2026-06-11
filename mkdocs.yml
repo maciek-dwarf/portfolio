@@ -20,6 +20,8 @@ nav:
   - "Mad pod racing": codinggame/index.md
 - Algorithmic Challenges:
   - "Game of Life": gamelife/index.md
+- Web Projects:
+  - "Mind Probe IQ Test": mindprobe/index.md
 - Unreal Engine 5.1.1 / C++:
   - "Balls Simulation": simulation/index.md
 - Courses:
