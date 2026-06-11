@@ -14,6 +14,7 @@ theme:
 
 nav:
 - Homepage: index.md
+- My CV: cv/index.md
 - Python Projects:
   - "Silence remover": silenceremover/index.md
 - Coding Game challenges:
