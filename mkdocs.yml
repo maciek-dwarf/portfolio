@@ -1,0 +1,27 @@
+site_name: My projects
+site_author: Maciej Mostowski
+site_description: >-
+    My Portfolio :  Gamedev, Algorithmic, Data Science, AI..
+
+#site_url: https://maciejatcosphere.github.io/ds_ai_portfolio
+
+
+repo_name: maciek-dwarf/portfolio
+repo_url: https://github.com/maciek-dwarf/portfolio
+
+theme:
+  name: material
+
+nav:
+- Homepage: index.md
+- Python Projects:
+  - "Silence remover": silenceremover/index.md
+- Coding Game challenges:
+  - "Mad pod racing": codinggame/index.md
+- Unreal Engine 5.1.1 / C++:
+  - "Balls Simulation": simulation/index.md
+- Courses:
+  - "AI devs": courses/index.md
+  - "Machine Learning": courses/machinelearning/index.md
+  - "DirectX Specialisation": courses/directx/index.md
+  - "Data Camp Courses": courses/datacamp-courses/index.md
