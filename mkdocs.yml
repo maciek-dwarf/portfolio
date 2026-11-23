@@ -23,6 +23,8 @@ nav:
   - "Game of Life": gamelife/index.md
 - Web Projects:
   - "Mind Probe IQ Test": mindprobe/index.md
+- Mobile Apps:
+  - "Foothold": foothold/index.md
 - Unreal Engine 5.1.1 / C++:
   - "Balls Simulation": simulation/index.md
   - "Simple GAS project": gas/index.md
